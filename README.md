@@ -2,10 +2,10 @@
 
 ## แอปพลิแคชั่นเก็บข้อมูลการวิ่ง
 
-<img width="838" height="1606" src="https://github.com/user-attachments/assets/1f948c51-55d1-4fe6-a679-920e68d787fb" />
+<img width="830" height="1606" src="https://github.com/user-attachments/assets/bb6b12cb-9414-44c9-81b6-a07727028735" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="838" height="1606" src="https://github.com/user-attachments/assets/5e86a44a-f2c5-410b-98a6-d3c391e76626" />
+<img width="830" height="1606" src="https://github.com/user-attachments/assets/b7d3cc33-aa74-49f1-9d12-102fde707e37" />
 <br/><br/><br/>
-<img width="838" height="1606" src="https://github.com/user-attachments/assets/d864f8e4-8eac-4aa6-8546-315c326a62e2" />
+<img width="830" height="1606" src="https://github.com/user-attachments/assets/a4692d23-5263-42bb-8899-7e1ba9d1070b" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="838" height="1606" src="https://github.com/user-attachments/assets/2ebe03c0-81a6-4bb4-b034-77118299d0d6" />
+<img width="830" height="1606" src="https://github.com/user-attachments/assets/2cda1491-4e3b-4afc-bda5-0405bf5ce47b" />
